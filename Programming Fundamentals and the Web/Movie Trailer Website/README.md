@@ -1,12 +1,21 @@
-Project: Movie Trailer Website - Joseph Nguyen
-===============================================
+Project: Movie Trailer - Joseph Nguyen
+===================================================
+
+Description
+---------------------------------------------------
+Movie Trailer generates a static web page allowing 
+vistors to browse movies and watch the trailers
+upon clicking the portrait
 
 Required Libraries and Dependencies
------------------------------------------------
-Python version 2
+---------------------------------------------------
+Python version 2.*, Git Shell or Git bash
 
 How to Run Project
------------------------------------------------
-<a href = https://github.com/JosephComputerScience/Udacity_Nanodegree_Fullstack/blob/master/Programming%20Fundamentals%20and%20the%20Web/Movie%20Trailer%20Webite/media.py> media.py </a>
-<a href = https://github.com/JosephComputerScience/Udacity_Nanodegree_Fullstack/blob/master/Programming%20Fundamentals%20and%20the%20Web/Movie%20Trailer%20Webite/fresh_tomatoes.py> fresh_tomatoes.py </a>
-<a href = "https://github.com/JosephComputerScience/Udacity_Nanodegree_Fullstack/blob/master/Programming%20Fundamentals%20and%20the%20Web/Movie%20Trailer%20Webite/entertainment_center.py"> entertainment.py </a>
+--------------------------------------------------
+Exclude quotations during commands
+Step 1: Through Git shell or bash use the command "git clone https://github.com/JosephComputerScience/Udacity_Nanodegree_Fullstack.git"
+Step 2: Use command "cd Udacity_Nanodegree_Fullstack/"
+Step 3: Use command "cd Programming\ Fundamentals\ and\ the\ Web/"
+Step 4: Use command "cd Movie\ Trailer\ Website/"
+Step 5: Use command "python entertainment_center.py"
